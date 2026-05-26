@@ -4,16 +4,16 @@
 
 Below are presented screenshots of 3d render PCB and schematic.
 
-### 1. Widok z góry (Front)
-![Widok z góry PCB](photos/front.png)
+### 1. Front
+![Front](photos/front.png)
 
-### 2. Widok z dołu (Back)
-![Widok z dołu PCB](photos/back.png)
+### 2. Back
+![Back](photos/back.png)
 
-### 3. Schemat
-![Schemat PCB](photos/schematic.png)
+### 3. Schematic
+![Schematic](photos/schematic.png)
 
 ---
 
-## O projekcie
-[Tutaj możesz dodać krótki opis techniczny swojego projektu, użyte komponenty itp.]
+## About
+

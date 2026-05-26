@@ -1,8 +1,8 @@
 # Easter PCB
 
-## Podgląd Płytki
+## Quick view of PCB
 
-Poniżej znajdują się zrzuty zaprojektowanej płytki oraz schemat:
+Below are presented screenshots of 3d render PCB and schematic.
 
 ### 1. Widok z góry (Front)
 ![Widok z góry PCB](photos/front.png)
